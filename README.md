@@ -8,6 +8,8 @@ The data for this system is stored in a MySQL database. For instance, a store ma
 
 Our system is smart enough to formulate precise SQL queries based on these questions and execute them on the MySQL database to provide accurate answers.
 
+![1](https://github.com/toufique69/Chat2Query/assets/13836636/47fff4b4-4e8f-424b-b6e8-1122bd1b6afd)
+
 
 ## Project Highlights
 - We’re dealing with a T-shirt retailer that offers brands like Adidas, Nike, Van Heusen, and Levi’s. 
