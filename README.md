@@ -8,7 +8,7 @@ The data for this system is stored in a MySQL database. For instance, a store ma
 
 Our system is smart enough to formulate precise SQL queries based on these questions and execute them on the MySQL database to provide accurate answers.
 
-![1](https://github.com/toufique69/Chat2Query/assets/13836636/47fff4b4-4e8f-424b-b6e8-1122bd1b6afd)
+![1](https://github.com/toufique69/Chat2Query/assets/13836636/c0860a53-da2b-4434-89f4-7015d3348a1c)
 
 
 ## Project Highlights
